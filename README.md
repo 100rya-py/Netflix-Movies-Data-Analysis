@@ -59,8 +59,3 @@ If I were presenting this to Netflix executives, here is what I would say:
 
 ## 📷 Visualizations
 *You can view the full code and interactive plots in the [Jupyter Notebook](Netflix Movies Data Analysis.ipynb).*
-
----
-
-## 🤝 Connect
-Thanks for checking out my project! If you have feedback or just want to chat about data (or movies), feel free to reach out.
