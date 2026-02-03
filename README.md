@@ -8,6 +8,9 @@ In this project, I didn't just want to crunch numbers; I wanted to understand **
 Whether you are a data enthusiast or just a movie buff, I hope you find these insights as fascinating as I did!
 
 ---
+## 📊 Project Presentation
+View the detailed business insights and findings in the presentation:
+[📄 View Project PPT](https://github.com/100rya-py/Netflix-Movies-Data-Analysis/blob/main/Netflix-Movies-Data-Analysis-Presentation.pdf)
 
 ## 🛠️ Tech Stack & Tools
 I used Python to power this analysis, relying on these libraries to clean, crunch, and visualize the data:
